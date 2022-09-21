@@ -1,6 +1,6 @@
 # Date-A-Scientist
 
-You can find my [write up of this project here](https://lottesofcode.github.io/Portfolio/fastpages/jupyter/2022/06/22/date-a-scientist.html).
+You can find the [full write up of this project in my portfolio.](https://lottesofcode.github.io/Portfolio/fastpages/jupyter/2022/06/22/date-a-scientist.html).
 
 # Introduction
 In recent years, there has been a massive rise in the usage of dating apps to find love. Many of these apps use sophisticated data science techniques to recommend possible romantic matches and optimize the user experience. These apps give us access to a wealth of information that we’ve never had before about how different people experience romance.
